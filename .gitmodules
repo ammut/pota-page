@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = git@github.com:ammut/obsidian-princes-of-the-apocalypse
